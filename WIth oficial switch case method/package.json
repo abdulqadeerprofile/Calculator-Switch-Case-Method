@@ -1,0 +1,21 @@
+{
+  "name": "abdulqadeer",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdulqadeer",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
